@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/Redux-Toolkit-Counter/static/css/main.e6c13ad2.css",
+    "main.js": "/MuratKosheterov/Redux-Toolkit-Counter/static/js/main.16122eff.js",
+    "index.html": "/MuratKosheterov/Redux-Toolkit-Counter/index.html",
+    "main.e6c13ad2.css.map": "/MuratKosheterov/Redux-Toolkit-Counter/static/css/main.e6c13ad2.css.map",
+    "main.16122eff.js.map": "/MuratKosheterov/Redux-Toolkit-Counter/static/js/main.16122eff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.16122eff.js"
+  ]
+}
